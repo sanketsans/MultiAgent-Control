@@ -133,14 +133,14 @@ Critic Neural Network Model : Input node ((state_size+action_size) * num_agents)
                              
 Given the architecture above : 
 
-![Results]()
+![Results](https://github.com/sanketsans/MultiAgent-Control/blob/master/images/plot.png)
 
 **These results meets the project's expectation as the agent is able to receive an average reward (over 100 episodes)
 of at least +0.5 in 1892 episodes** 
 
 ## Ideas for future work 
 
-to further improve our Multi-Agents project would be to implement [Prioritized experience replay](https://arxiv.org/abs/1511.05952)
+Our Multi-Agents project can be further improved using [Prioritized experience replay](https://arxiv.org/abs/1511.05952)
 
 > Experience replay lets online reinforcement learning agents remember and reuse experiences from the past. In 
 prior work, experience transitions were uniformly sampled from a replay memory. However, this approach simply replays
@@ -149,3 +149,5 @@ we develop a framework for prioritizing experience, so as to replay important tr
 learn more efficiently. We use prioritized experience replay in Deep Q-Networks (DQN), a reinforcement learning algorithm 
 that achieved human-level performance across many Atari games. DQN with prioritized experience replay achieves a new 
 state-of-the-art, outperforming DQN with uniform replay on 41 out of 49 games.
+
+
