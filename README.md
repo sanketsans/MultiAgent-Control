@@ -43,4 +43,8 @@ Follow the instructions in `Tennis_1.ipynb` to get started with training your ow
 
 ![Check out the Results](https://www.youtube.com/watch?v=RRGA5jnucHA)
 
+## For other Unity ML Agent based environment solutions : 
+1. Robo Arm Project : [click_here](https://github.com/sanketsans/RoboArm-Project)
+2. Navigation Project : [click_here](https://github.com/sanketsans/Navigation_project)
+
 
